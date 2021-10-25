@@ -1,0 +1,19 @@
+{
+  "name": "sample-contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek-yogeeshwara/sample-contacts.git"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek-yogeeshwara/sample-contacts/issues"
+  },
+  "homepage": "https://github.com/vivek-yogeeshwara/sample-contacts#readme"
+}
